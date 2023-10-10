@@ -1,0 +1,14 @@
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\bin\Debug\net6.0\5-BusFares.exe
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\bin\Debug\net6.0\5-BusFares.deps.json
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\bin\Debug\net6.0\5-BusFares.runtimeconfig.json
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\bin\Debug\net6.0\5-BusFares.dll
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\bin\Debug\net6.0\5-BusFares.pdb
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\5-BusFares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\5-BusFares.AssemblyInfoInputs.cache
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\5-BusFares.AssemblyInfo.cs
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\5-BusFares.csproj.CoreCompileInputs.cache
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\5-BusFares.dll
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\refint\5-BusFares.dll
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\5-BusFares.pdb
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\5-BusFares.genruntimeconfig.cache
+C:\Users\Isa\OneDrive\Documents\BC\FALL 2023\DEV110\5-BusFares\5-BusFares\5-BusFares\obj\Debug\net6.0\ref\5-BusFares.dll
